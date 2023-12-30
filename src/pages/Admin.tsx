@@ -6,9 +6,12 @@ import { useNavigate } from 'react-router-dom';
 import LineChart from './LineChart';
 const Admin: React.FC = () => {
   const [users, setUsers] = useState<User[]>([
-    { id: 1, username: 'admin1', email: 'admin1@example.com', password: 'password1' },
+    { id: 1, username: 'admin', email: 'admin@gmail.com.com', password: 'admin' },
     { id: 2, username: 'admin2', email: 'admin2@example.com', password: 'password2' },
-    { id: 3, username: 'admin3', email: 'admin3@example.com', password: 'password3' },
+    { id: 3, username: 'admin3', email: '123gddl@gmail.com', password: '123456' },
+    { id: 4, username: 'admin3', email: 'tadioiquew@gmail.com', password: '123456' },
+    { id: 5, username: 'admin3', email: 'tanjirodono@gmail.com', password: '123456' },
+    { id: 6, username: 'admin3', email: 'uhiqwiudhhiu@gmail.com', password: '123456' },
   ]);
 
 
