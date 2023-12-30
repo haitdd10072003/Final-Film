@@ -9,9 +9,9 @@ const Admin: React.FC = () => {
     { id: 1, username: 'admin', email: 'admin@gmail.com.com', password: 'admin' },
     { id: 2, username: 'admin2', email: 'admin2@example.com', password: 'password2' },
     { id: 3, username: 'admin3', email: '123gddl@gmail.com', password: '123456' },
-    { id: 4, username: 'admin3', email: 'tadioiquew@gmail.com', password: '123456' },
-    { id: 5, username: 'admin3', email: 'tanjirodono@gmail.com', password: '123456' },
-    { id: 6, username: 'admin3', email: 'uhiqwiudhhiu@gmail.com', password: '123456' },
+    { id: 4, username: 'admin4', email: 'tadioiquew@gmail.com', password: '123456' },
+    { id: 5, username: 'admin5', email: 'tanjirodono@gmail.com', password: '123456' },
+    { id: 6, username: 'admin6', email: 'uhiqwiudhhiu@gmail.com', password: '123456' },
   ]);
 
 
